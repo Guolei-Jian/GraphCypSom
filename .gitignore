@@ -2,3 +2,7 @@
 /GNN/tensorboard/
 /GNN/model
 /TransferLearning/QM9/model
+/TransferLearning/Cypstrate/tensorboard
+/TransferLearning/Cypstrate/*/model
+/TransferLearning/Subgraph/tensorboard
+/TransferLearning/Subgraph/*/model
