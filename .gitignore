@@ -7,3 +7,5 @@
 /TransferLearning/Subgraph/tensorboard
 /TransferLearning/Subgraph/*/model
 /SearchPara/
+/SubGraph/tensorboard
+/SubGraph/model
