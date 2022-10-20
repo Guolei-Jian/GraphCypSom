@@ -1,0 +1,10 @@
+{
+    "conv_hidden":{"_type":"choice","_value":[64, 128, 256, 512, 1024]},
+    "cls_hidden":{"_type":"choice","_value":[16, 32, 64, 128, 256, 512, 1024]},
+    "n_layers":{"_type":"choice","_value":[1, 2, 3, 4, 5]},
+    "lr":{"_type":"loguniform","_value":[0.001, 0.1]},
+    "batch_size":{"_type":"choice","_value":[16, 32, 64, 128]},
+    "cls_drop":{"_type":"uniform","_value":[0, 1]},
+    "seed":{"_type":"choice","_value":[7, 42, 1229, 100]},
+    "readout":{"_type":"choice","_value":[0, 1, 2]}
+}
