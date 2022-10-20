@@ -9,3 +9,8 @@
 /SearchPara/
 /SubGraph/tensorboard
 /SubGraph/model
+/SubGraphClassification/subgraphdataset
+/SubGraphClassification/tensorboard
+/SubGraphClassification/model
+/deepGNN/model
+/deepGNN/tensorboard
